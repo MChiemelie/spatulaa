@@ -1,0 +1,23 @@
+{
+  "name": "spatulaa",
+  "version": "1.0.0",
+  "description": "Spatulaa is a web scrapping application used for data scrapping.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MChiemelie/spatulaa.git"
+  },
+  "keywords": [],
+  "author": "Melikam Chukwuemelie John <melikamchukwuemelie@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MChiemelie/spatulaa/issues"
+  },
+  "homepage": "https://github.com/MChiemelie/spatulaa#readme",
+  "dependencies": {
+    "puppeteer": "^19.4.1"
+  }
+}
